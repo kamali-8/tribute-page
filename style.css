@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white
+    
+    ;
+}
+#d{
+    border: solid;
+    background-color: white;
+    border-width: 2px;
+}
+#a{
+    font:bolder; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin: 5px;
+    padding: 20px;
+}
+#b{
+   margin-left: 40px;
+    margin-top: 3px;
+}
+#tab1{
+    margin: 5px;
+    padding: 20px;
+}
+#c{
+    padding: 20px;
+}
+#tab2{
+    margin: 0%;
+    padding:10 ;
+}
+#tab2c1{
+    padding: 50px;
+}
+#e{
+    height: 400px;
+    width: 800px;
+}
